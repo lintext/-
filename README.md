@@ -1,3 +1,5 @@
+附源码
+
 <img width="4846" height="1446" alt="图 2-1系统总体架构分层方框图" src="https://github.com/user-attachments/assets/f1c25b28-8734-4cbc-97d6-830229cd1e5c" /># -
 随着人工智能技术的飞速发展，特别是大语言模型和多模态AI的突破性进展，人机交互方式正经历着深刻变革。传统的图形用户界面和命令行界面已无法满足用户对自然、智能、情感化交互的需求。本研究针对当前桌面应用缺乏个性化智能助手的问题，设计并实现了一款基于多模态大语言模型的Live2D AI桌面宠物系统——"小艾同学"。
 
@@ -5,13 +7,17 @@
 附录：
 程序页面截图示例
 管理端WEBUI界面
+<img width="482" height="333" alt="image" src="https://github.com/user-attachments/assets/a44b2e5c-aa12-44bb-a0cc-b209d8a2d60f" />
 
 宠物聊天页面
 
 图 6宠物聊天页面（1）
+<img width="482" height="500" alt="image" src="https://github.com/user-attachments/assets/de18d828-f4ba-4c29-93a3-938b37203f08" />
 
 
 图 7宠物聊天页面（2）
+<img width="374" height="363" alt="image" src="https://github.com/user-attachments/assets/6004d920-edf4-4196-94e7-4cb7b7603be2" />
+
 
 附录A 系统核心配置文件示例
 A1 大模型配置文件（config/llm.config.）
